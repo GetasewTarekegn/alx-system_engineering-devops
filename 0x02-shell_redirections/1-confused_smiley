@@ -1,2 +1,2 @@
-#!/bin/bash 
-printf "\"(Oo)\' \n"
+#!/bin/bash
+echo "\"(Oo)\' \n"
